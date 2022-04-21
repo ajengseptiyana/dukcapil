@@ -1,0 +1,22 @@
+.width-full1 {
+  width: 500px;
+  border-radius: 20px;
+  height: 100%;
+  padding: 10px;
+  margin-left: 27%;
+}
+
+.name-gallery-foto {
+  margin-top: 20px;
+  text-align: left;
+  font-family: serif;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  background: #9abbcc;
+  -webkit-box-shadow: 0 0 20px rgb(0 0 0 / 11%);
+  box-shadow: 0 0 20px rgb(0 0 0 / 20%);
+}
+
+.text-gallery-foto {
+  text-align: center;
+}

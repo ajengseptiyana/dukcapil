@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.margin {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+
+html,
+body {
+  background: #000;
+}
+
+#root {
+  background: #e8e7ee;
+}
+
+.container-margin-top {
+  margin-top: 4px;
+}
+
+.warna {
+  color: black !important;
+}
+
+.margin-artikel {
+  background-color: antiquewhite;
+}
+
+.margin-galeri {
+  background: #b3bfd6;
+  -webkit-box-shadow: 0 0 20px rgb(0 0 0 / 11%);
+  box-shadow: 0 0 20px rgb(0 0 0 / 19%);
+}

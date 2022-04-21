@@ -1,0 +1,62 @@
+.bg-berita {
+  margin-top: 50px;
+}
+
+.img-galeri {
+  width: 100%;
+  height: 300px;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.text-berita {
+  text-align: left;
+  font-family: serif;
+}
+
+.jeruk-peras {
+  margin-top: 20px !important;
+}
+
+.cimory {
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 0 20px rgb(0 0 0 / 11%);
+  box-shadow: 0 0 20px rgb(0 0 0 / 11%);
+}
+
+.berita-terbaru {
+  text-align: left;
+  font-family: serif;
+  margin-bottom: 40px;
+  overflow: hidden;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 0 30px rgb(0 0 0 / 11%);
+  box-shadow: 0 0 20px rgb(0 0 0 / 20%);
+  border-top: 3px solid #2f5061;
+}
+
+.text-pengumuman {
+  text-align: center;
+}
+
+.bg {
+  font-family: serif;
+}
+
+.box-berita {
+  padding-bottom: 20px;
+}
+
+.berita-ku {
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-bottom: solid 1px #e0e0e0;
+}

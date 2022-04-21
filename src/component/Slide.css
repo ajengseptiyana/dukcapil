@@ -1,0 +1,46 @@
+.bg-slide {
+  padding-top: 47px;
+  padding-bottom: 15px;
+}
+
+.w-100 {
+  height: 590px;
+  width: 400px;
+}
+
+.pencarian {
+  padding-left: 370px;
+  padding-right: 370px;
+  padding-top: 30px;
+}
+
+.btn {
+  border-radius: 25px !important;
+  border-top-left-radius: 25px !important;
+  border-top-right-radius: 25px !important;
+  border-bottom-right-radius: 25px !important;
+  border-bottom-left-radius: 25px !important;
+}
+
+.me-2 {
+  border-radius: 25px !important;
+  border-top-left-radius: 25px !important;
+  border-top-right-radius: 25px !important;
+  border-bottom-right-radius: 25px !important;
+  border-bottom-left-radius: 25px !important;
+}
+
+.icon {
+  color: #000000;
+  float: right;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  background: #6d85a3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+}
